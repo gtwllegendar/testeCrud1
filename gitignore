@@ -1,0 +1,14 @@
+### Maven ###
+target/
+
+### IntelliJ ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Outros ###
+.DS_Store
+*.log
+.env
